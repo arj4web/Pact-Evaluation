@@ -115,7 +115,7 @@ The summary is in `results/lean/summary.md`.
 The results in this artifact are revised from the submitted paper.
 
 - [`pact-experiments/README.md`](pact-experiments/README.md) lists the current benchmark results.
-- [`pact-experiments/OPTIMIZATIONS.md`](pact-experiments/OPTIMIZATIONS.md) describes the compiler optimizations behind them.
+- [`pact-experiments/result-updates.md`](pact-experiments/result-updates.md) describes the compiler optimizations behind them.
 - [`pact-formalization/Update.md`](pact-formalization/Update.md) summarizes how the mechanization makes the paper's definitions and theorem statements precise.
 
 ## Other commands
