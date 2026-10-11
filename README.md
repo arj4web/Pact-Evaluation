@@ -22,7 +22,7 @@ This artifact contains two parts, included as git submodules:
 ## Getting started
 
 ```sh
-git clone --recurse-submodules <this repository> pact-artifact
+git clone --recurse-submodules https://github.com/arj4web/Pact-Evaluation.git pact-artifact
 cd pact-artifact
 ./evaluate.sh            # menu
 ```
