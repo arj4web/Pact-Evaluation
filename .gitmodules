@@ -1,0 +1,6 @@
+[submodule "pact-experiments"]
+	path = pact-experiments
+	url = https://github.com/AnvilHDL/Pact-Experiments.git
+[submodule "pact-formalization"]
+	path = pact-formalization
+	url = https://github.com/AnvilHDL/Pact-formalization.git
