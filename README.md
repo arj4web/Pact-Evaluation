@@ -1,5 +1,9 @@
 # Pact: artifact for *A Type System for Communication Safe Hardware Design* (POPL 2027)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23301148.svg)](https://doi.org/10.5281/zenodo.23301148)
+
+Archived on Zenodo: [10.5281/zenodo.23301148](https://doi.org/10.5281/zenodo.23301148).
+
 This artifact contains two parts, included as git submodules:
 
 | Part | Submodule | Contents |
